@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845096976706",
+    "firebase_url": "https://paypick-f1934.firebaseio.com",
+    "project_id": "paypick-f1934",
+    "storage_bucket": "paypick-f1934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845096976706:android:ff5923f6dc2769103708db",
+        "android_client_info": {
+          "package_name": "com.inducesmile.androidpayexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845096976706-b8bilmr8lg0pc80eum5eudsparconfm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkKv5ZcqYWupk_QiPV8kf2LwwKbyx-p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845096976706-b8bilmr8lg0pc80eum5eudsparconfm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
